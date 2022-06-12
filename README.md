@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mina Langlete
+# 👋 Hi, I am Mina Langlete
 ![headergithub](https://user-images.githubusercontent.com/71304403/173248267-2e8e8eaf-bb21-4825-bddb-e31c4e087a0a.jpg)
 
 
