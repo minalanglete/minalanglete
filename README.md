@@ -4,8 +4,14 @@
 
 I am a frontend developer from Norway 🦈
 
+I am still studying at Noroff, but are finished with my two years of school  this summer. I do know the basic, HTML, CSS and JavaScript. I am also an illustrator, so I have good experience with design. The Adobe programs is something I am very familiar with, I love them all. When I do prototypes for a webpage I use Adobe Xd. 
+
 📫 You can reach me by sending me a mail langlete.mina@gmail.com
 
+The repositories in my GitHub account is schoolproject. 
+
+
+<br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 
